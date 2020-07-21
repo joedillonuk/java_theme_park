@@ -2,7 +2,7 @@ package Attraction;
 
 import Behaviours.IReviewed;
 
-public abstract class Attraction{
+public abstract class Attraction implements IReviewed{
 
     private String name;
     private int rating;

@@ -37,4 +37,8 @@ public abstract class Attraction{
     public void setVisitCount(int visitCount) {
         this.visitCount = visitCount;
     }
+
+    public void increaseVisitCount(){
+        visitCount++;
+    }
 }

@@ -39,4 +39,10 @@ public class DodgemTest {
     public void childPaysHalf(){
         assertEquals(2.25, dodgem.priceFor(child), 0.1);
     }
+
+    @Test
+    public void canIncreaseVisitCount(){
+        dodgem.increaseVisitCount();
+        assertEquals(1, dodgem.getVisitCount());
+    }
 }

@@ -1,7 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ecfe63ce-8659-4ccc-8729-29969f6da545" name="Default Changelist" comment="" />
+    <list default="true" id="ecfe63ce-8659-4ccc-8729-29969f6da545" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/ThemeParkTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Attraction/Attraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Attraction/Attraction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/People/Visitor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/People/Visitor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ThemePark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ThemePark.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/Attraction/DodgemTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/Attraction/DodgemTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/Attraction/Attraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Attraction/Attraction.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/People/Visitor.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/People/Visitor.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/Attraction/DodgemTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/Attraction/DodgemTest.class" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -16,7 +27,11 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1f04eTu7jYau7pgCjaQSDj80JfD" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -24,6 +39,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Groovy JUnit" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.Groovy JUnit" value="groovy.util.GroovyTestCase" />
     <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.JUnit5" value="" />
@@ -38,7 +54,7 @@
       <recent name="" />
     </key>
   </component>
-  <component name="RunManager" selected="JUnit.DodgemTest">
+  <component name="RunManager" selected="JUnit.ThemeParkTest">
     <configuration name="All in homework_abstract_classes" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="homework_abstract_classes" />
       <option name="PACKAGE_NAME" value="" />
@@ -77,21 +93,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PlaygroundTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="homework_abstract_classes" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Attraction.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="Attraction" />
-      <option name="MAIN_CLASS_NAME" value="Attraction.PlaygroundTest" />
-      <option name="TEST_OBJECT" value="class" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="RollercoasterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="homework_abstract_classes" />
       <extension name="coverage">
@@ -107,13 +108,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ThemeParkTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="homework_abstract_classes" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ThemeParkTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ThemeParkTest" />
         <item itemvalue="JUnit.DodgemTest" />
         <item itemvalue="JUnit.RollercoasterTest" />
         <item itemvalue="JUnit.All in homework_abstract_classes" />
         <item itemvalue="JUnit.BeerStallTest" />
-        <item itemvalue="JUnit.PlaygroundTest" />
       </list>
     </recent_temporary>
   </component>
@@ -139,22 +149,22 @@
       <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state x="773" y="133" key="#com.intellij.ide.util.MemberChooser/0.23.1440.825@0.23.1440.825" timestamp="1595348626091" />
-    <state width="1314" height="200" key="GridCell.Tab.0.bottom" timestamp="1595348849068">
+    <state width="1314" height="200" key="GridCell.Tab.0.bottom" timestamp="1595356188930">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
-    <state width="1314" height="200" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1595348849068" />
-    <state width="1314" height="200" key="GridCell.Tab.0.center" timestamp="1595348849068">
+    <state width="1314" height="200" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1595356188930" />
+    <state width="1314" height="200" key="GridCell.Tab.0.center" timestamp="1595356188930">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
-    <state width="1314" height="200" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1595348849068" />
-    <state width="1314" height="200" key="GridCell.Tab.0.left" timestamp="1595348849067">
+    <state width="1314" height="200" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1595356188930" />
+    <state width="1314" height="200" key="GridCell.Tab.0.left" timestamp="1595356188929">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
-    <state width="1314" height="200" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1595348849067" />
-    <state width="1314" height="200" key="GridCell.Tab.0.right" timestamp="1595348849068">
+    <state width="1314" height="200" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1595356188929" />
+    <state width="1314" height="200" key="GridCell.Tab.0.right" timestamp="1595356188930">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
-    <state width="1314" height="200" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1595348849068" />
+    <state width="1314" height="200" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1595356188930" />
     <state x="850" y="176" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1595348243417">
       <screen x="0" y="23" width="1440" height="825" />
     </state>

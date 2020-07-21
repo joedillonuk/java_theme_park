@@ -76,9 +76,11 @@ public class ThemePark {
  public ArrayList<IReviewed> getAllAllowedFor(Visitor visitor) {
      ArrayList<IReviewed> allAllowed = new ArrayList<IReviewed>();
      for (IReviewed item : this.getAllReviewed()) {
+
+         if(item instanceof ISecurity){
          if (((ISecurity) item).isAllowedTo(visitor)) {
              allAllowed.add(item);
-         }
+         }}else{allAllowed.add(item);}
 
      }
      return allAllowed;

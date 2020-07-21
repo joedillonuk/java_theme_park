@@ -3,13 +3,8 @@
   <component name="ChangeListManager">
     <list default="true" id="ecfe63ce-8659-4ccc-8729-29969f6da545" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Attraction/Attraction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Attraction/Attraction.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/Stall/Stall.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Stall/Stall.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/ThemePark.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ThemePark.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/ThemeParkTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ThemeParkTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/Attraction/Attraction.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/Attraction/Attraction.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/ThemePark.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ThemePark.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/ThemeParkTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/ThemeParkTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ThemePark.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -147,22 +142,22 @@
       <screen x="0" y="23" width="1440" height="825" />
     </state>
     <state x="773" y="133" key="#com.intellij.ide.util.MemberChooser/0.23.1440.825@0.23.1440.825" timestamp="1595361568457" />
-    <state width="1314" height="200" key="GridCell.Tab.0.bottom" timestamp="1595364241973">
+    <state width="1314" height="200" key="GridCell.Tab.0.bottom" timestamp="1595366703014">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
-    <state width="1314" height="200" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1595364241973" />
-    <state width="1314" height="200" key="GridCell.Tab.0.center" timestamp="1595364241972">
+    <state width="1314" height="200" key="GridCell.Tab.0.bottom/0.23.1440.825@0.23.1440.825" timestamp="1595366703014" />
+    <state width="1314" height="200" key="GridCell.Tab.0.center" timestamp="1595366703013">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
-    <state width="1314" height="200" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1595364241972" />
-    <state width="1314" height="200" key="GridCell.Tab.0.left" timestamp="1595364241971">
+    <state width="1314" height="200" key="GridCell.Tab.0.center/0.23.1440.825@0.23.1440.825" timestamp="1595366703013" />
+    <state width="1314" height="200" key="GridCell.Tab.0.left" timestamp="1595366703012">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
-    <state width="1314" height="200" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1595364241971" />
-    <state width="1314" height="200" key="GridCell.Tab.0.right" timestamp="1595364241972">
+    <state width="1314" height="200" key="GridCell.Tab.0.left/0.23.1440.825@0.23.1440.825" timestamp="1595366703012" />
+    <state width="1314" height="200" key="GridCell.Tab.0.right" timestamp="1595366703013">
       <screen x="0" y="23" width="1440" height="825" />
     </state>
-    <state width="1314" height="200" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1595364241972" />
+    <state width="1314" height="200" key="GridCell.Tab.0.right/0.23.1440.825@0.23.1440.825" timestamp="1595366703013" />
     <state x="850" y="176" key="com.intellij.testIntegration.createTest.CreateTestDialog" timestamp="1595348243417">
       <screen x="0" y="23" width="1440" height="825" />
     </state>

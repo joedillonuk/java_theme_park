@@ -70,13 +70,23 @@ public class ThemeParkTest {
     }
 
 @Test
-    public void canGetAllAllowedForVisitor(){
+    public void canGetAllAllowedForVisitorChild(){
     themePark.addAttraction(rollercoaster);
     themePark.addStall(friesStall);
     themePark.addStall(beerStall);
-    assertEquals(2, themePark.getAllAllowedFor(child).size());
+    assertEquals(1, themePark.getAllAllowedFor(child).size());
 
 
 }
+
+    @Test
+    public void canGetAllAllowedForVisitorAdult(){
+        themePark.addAttraction(rollercoaster);
+        themePark.addStall(friesStall);
+        themePark.addStall(beerStall);
+        assertEquals(3, themePark.getAllAllowedFor(adult).size());
+
+
+    }
 
 }
